@@ -1,0 +1,4 @@
+Hello
+I'm Vaishnavi Chavan
+I'm Computer science student intterested in coding,technology and learning new skills.
+This repository is created to explore GitHub and share my Projects.
