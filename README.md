@@ -1,2 +1,2 @@
 # cse-projects
-Repository for my Computer Science projects and coding practice.
+Repository for my Computer Science Projects and coding practice.
